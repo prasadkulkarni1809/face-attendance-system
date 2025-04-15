@@ -1,0 +1,6 @@
+flask
+opencv-python-headless
+numpy
+pillow
+mysql-connector-python
+deepface==0.0.93
